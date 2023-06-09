@@ -24,9 +24,9 @@ I am a passionate and dedicated student pursuing a degree in Data Science. I hav
         Back end : PHP
 
 ## Certifications
--Completed courses on Completed courses on ‘Introduction to datascience’ , ‘Python basics for Datascience’ , ‘Datascience tools’ , ‘Cybersecurity’ on EDx
--Completed courses on ‘Fundamentals of C Programming’ , ‘C++ basics’ on Coursera
--SQL Advanced, Programming Fundamentals Advanced in Hackerrank
+- Completed courses on Completed courses on ‘Introduction to datascience’ , ‘Python basics for Datascience’ , ‘Datascience tools’ , ‘Cybersecurity’ on EDx
+- Completed courses on ‘Fundamentals of C Programming’ , ‘C++ basics’ on Coursera
+- SQL Advanced, Programming Fundamentals Advanced in Hackerrank
 
 ## Contact
 - Email: tejaswini.pk.2004@email.com
