@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejaswinipk&label=Profile%20views&color=0e75b6&style=flat" alt="tejaswinipk" /> </p>
 
+<h3 align="left">👩🏻‍💻 About Me :</h3>
+
 - 💬 Ask me about **DataScience , Coding**
+
+- 👨‍💻 All of my projects are available at [Github](https://github.com/tejaswinipk)
 
 - 📫 How to reach me **tejaswini.pk.2004@gmail.com**
 
