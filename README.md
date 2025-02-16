@@ -25,45 +25,37 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+### 🚀 Projects  
+
+Here are some of my notable projects:  
+
+- **📊 [Outpatient Management Dashboard](https://github.com/tejaswinipk/outpatient-dashboard)**  
+  *Developed an interactive dashboard for hospital management to analyze outpatient data using Power BI and Python.*  
+
+- **⚡ [Real-Time Data Streaming with Kafka](https://github.com/tejaswinipk/kafka-streaming)**  
+  *Implemented a real-time data pipeline using Kafka, Debezium, and PySpark for efficient data processing.*  
+
+- **📡 [IoT-Based Health Monitoring System](https://github.com/tejaswinipk/iot-health-monitoring)**  
+  *Designed a health monitoring system integrating IoT sensors and ML models to predict patient health conditions.*  
+
+- **📝 [Book Summarization using AI](https://github.com/tejaswinipk/book-summary-ai)**  
+  *Built an AI-powered book summarization tool using NLP and visualization techniques in Colab.*  
+
+ ### 📄 Publications  
+
+Here are some of my research works and publications:  
+
+- **📘 [Evaluating elements influencing student engagement: an analysis utilizing multiple regression](https://journaleet.in/articles/evaluating-elements-influencing-student-engagement-an-analysis-utilizing-multiple-regression))**  
+  *Published in Journal of Engineering Education Transformations, 2025.*  
+
+- **📗 [Time-Series Analysis and Forecasting: Unveiling Patterns and Enhancing Predictions for Pharmaceutical Sales](https://www.igi-global.com/gateway/chapter/351611)**  
+  *Published in IGI Global Scientific Publishing Platform, 2024.*
+
+- **📗 [Intelligent Cultivation: A Data-Driven Decision Support System for Crop Selection in Agriculture Using Conversational AI]**  
+  *EasyChair Publications*  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaswinipk&show_icons=true&locale=en&layout=compact" alt="tejaswinipk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaswinipk&show_icons=true&locale=en" alt="tejaswinipk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinipk&" alt="tejaswinipk" /></p>
-
-# Hi there, I'm Tejaswini! 👋  
-
-### 🌟 Data Science Enthusiast | Data Engineer | AI & ML Learner  
-
-I'm passionate about data-driven insights, building scalable data pipelines, and solving real-world problems using AI & ML. Currently, I am working on data streaming, analytics, and visualization.  
-
----
-
-### 🔗 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswini-p-k)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tejxxxx)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswini.pk.2004@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tejaswini_pk)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tejaswini_pk_201)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/tejaswini_pk)  
-
----
-
-### 💻 Tech Stack  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
----
-
-### 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tejaswinipk&show_icons=true&locale=en&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswinipk&show_icons=true&locale=en)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswinipk&)  
-
