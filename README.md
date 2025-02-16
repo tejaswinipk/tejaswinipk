@@ -30,3 +30,40 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaswinipk&show_icons=true&locale=en" alt="tejaswinipk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaswinipk&" alt="tejaswinipk" /></p>
+
+# Hi there, I'm Tejaswini! 👋  
+
+### 🌟 Data Science Enthusiast | Data Engineer | AI & ML Learner  
+
+I'm passionate about data-driven insights, building scalable data pipelines, and solving real-world problems using AI & ML. Currently, I am working on data streaming, analytics, and visualization.  
+
+---
+
+### 🔗 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejaswini-p-k)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tejxxxx)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejaswini.pk.2004@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_tejaswini_pk)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tejaswini_pk_201)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/tejaswini_pk)  
+
+---
+
+### 💻 Tech Stack  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tejaswinipk&show_icons=true&locale=en&layout=compact)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejaswinipk&show_icons=true&locale=en)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tejaswinipk&)  
+
